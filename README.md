@@ -1,3 +1,7 @@
+![Code Orange Workshop](https://pbs.twimg.com/media/G5vEvYpXQAAAgCl?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G5vEvYoWEAAeySO?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G5vEvYoWUAEQp7c?format=jpg&name=large)
+
 # Sovereign Bitcoiner Workshop - Code Orange Dev School
 
 ## Overview
